@@ -24,7 +24,7 @@
 <div align="center">
   <img src="images/mooscless.png" alt="Logo" width="80" height="80">
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Mooscles</h3>
 
   <p align="center">
     Mooscles! It helps you track your BMI, log your workouts, and keep tabs on what you eat.
