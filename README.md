@@ -52,16 +52,25 @@
 <!-- Screenshots -->
 ## ScreenShots
 
-<img src="images/Login.png">
-<img src="images/register.png">
-<img src="images/personregisform.png">
-<img src="images/dashboard.png">
-<img src="images/report.png">
-<img src="images/workout.png">
-<img src="images/meal.png">
-<img src="images/nutrition.png">
-<img src="images/profile.png">
-<img src="images/edit profile.png">
+<div align="center">
+  <img src="images/Login.png" width="30%" alt="Login">
+  <img src="images/register.png" width="30%" alt="Register">
+  <img src="images/personregisform.png" width="30%" alt="Person Registration Form">
+</div>
+<div align="center">
+  <img src="images/dashboard.png" width="30%" alt="Dashboard">
+  <img src="images/report.png" width="30%" alt="Report">
+  <img src="images/workout.png" width="30%" alt="Workout">
+</div>
+<div align="center">
+  <img src="images/meal.png" width="30%" alt="Meal">
+  <img src="images/nutrition.png" width="30%" alt="Nutrition">
+  <img src="images/profile.png" width="30%" alt="Profile">
+</div>
+<div align="center">
+  <img src="images/edit profile.png" width="30%" alt="Edit Profile">
+</div>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
